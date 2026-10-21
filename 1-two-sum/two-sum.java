@@ -15,9 +15,8 @@ class Solution {
             }
         }
 
-        int a[]={k,l};
-        return a;
-        //return new int[]{k,l};
+        
+        return new int[]{k,l};
 
     }
 }
